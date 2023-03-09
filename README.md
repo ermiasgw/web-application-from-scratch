@@ -8,4 +8,4 @@ The "Web Application from Scratch" project has been created exclusively using Py
 
 **Client:** html
 
-**Server:** Pthon
+**Server:** Python
